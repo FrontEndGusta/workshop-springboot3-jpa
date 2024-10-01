@@ -4,7 +4,7 @@ import com.estudos.course.entities.Category;
 import com.estudos.course.entities.Order;
 import com.estudos.course.entities.Product;
 import com.estudos.course.entities.User;
-import com.estudos.course.enums.OrderStatus;
+import com.estudos.course.entities.enums.OrderStatus;
 import com.estudos.course.repository.CategoryRepository;
 import com.estudos.course.repository.OrderRepository;
 import com.estudos.course.repository.ProductRepository;

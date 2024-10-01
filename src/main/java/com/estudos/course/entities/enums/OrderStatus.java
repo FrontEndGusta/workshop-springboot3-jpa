@@ -1,6 +1,4 @@
-package com.estudos.course.enums;
-
-import com.estudos.course.entities.Order;
+package com.estudos.course.entities.enums;
 
 public enum OrderStatus {
 
